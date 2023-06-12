@@ -1,0 +1,6 @@
+pandas==2.0.2
+numpy
+psycopg2-binary
+python-dotenv
+flask==2.0.2
+sqlalchemy
