@@ -21,5 +21,5 @@
 * Open a command prompt in the project directory or set the working directory of the command prompt to the project directory.
 * Execute the command "python docker_build_and_run.py".
 * Open a command prompt in the project directory and execute "python run_ETL.py".
-* Execute the command "python run_postgresql_commands.py"
+* Execute the command "python run_postgresql_commands.py". Please provide the same credentials and database name provided in second step.
 * Now you should see the final table with users' data and derived features.
