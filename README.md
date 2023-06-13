@@ -20,7 +20,7 @@
 
 # Running the application using scripts:
 * Open a command prompt in the project directory or set the working directory of the command prompt to the project directory.
-* Execute the command "python docker_build_and_run.py". Please provide PostgreSQL username, password, and database name. The values should be case-sensitive. Provide the values without enclosing them in quotes or brackets. If the database provided doesn't exist, a new database will be created.
-* Open a command prompt in the project directory and execute "python run_ETL.py".
-* Execute the command "python run_postgresql_commands.py". Please provide the same PostgreSQL credentials and database name provided in second step.
+* Execute the command "python3 docker_build_and_run.py". Please provide PostgreSQL username, password, and database name. The values should be case-sensitive. Provide the values without enclosing them in quotes or brackets. If the database provided doesn't exist, a new database will be created.
+* Open a command prompt in the project directory and execute "python3 run_ETL.py".
+* Execute the command "python3 run_postgresql_commands.py". Please provide the same PostgreSQL credentials and database name provided in second step.
 * Now you should see the final table with users' data and derived features.
