@@ -4,6 +4,7 @@
 * Download and install Python 3 from https://www.python.org/downloads/. Please skip this step if Python 3 is already installed.
 * Download and install PostgreSQL from https://www.postgresql.org/download/. Please skip this step if PostgreSQL is already installed.
 * Download and install Docker from https://www.docker.com/products/docker-desktop/. Please skip this step if Docker is already installed.
+* Make sure these applications are running on the system.
 * Download all the project files to the system.
 * Start the docker engine.
 
